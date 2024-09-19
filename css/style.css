@@ -343,22 +343,22 @@ transition: 0.9s ease-in-out;
 }
 @keyframes animate{
     15%{
-        background: url(../img/americano.jpg) no-repeat;
+        background: url(../img/americano-min.jpg) no-repeat;
         background-size: cover;
         background-position: 50% 50%;
     }
     30%{
-    background: url(../img/cappuccino-coffee.jpg) no-repeat;
+    background: url(../img/cappuccino-coffee-min.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: cover;
     }
     45% {
-            background: url(../img/latte.jpg) no-repeat;
+            background: url(../img/latte-min.jpg) no-repeat;
             background-position: 50% 50%;
             background-size: cover;
         }
     60% {
-                    background: url(../img/expresso.jpg) no-repeat;
+                    background: url(../img/expresso-min.jpg) no-repeat;
                     background-position: 50% 50%;
                     background-size: cover;
     }
